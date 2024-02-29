@@ -1,0 +1,30 @@
+/*Feedback*/
+
+.Feedback_header{
+  margin-left: 10vw;
+  margin-right: 10vw;
+  width: 60%;
+}
+
+.contact_form--input{
+  border-color: darkcyan;
+  border-width: thin;
+  background: transparent;
+  width: 65%;
+  border-radius: 2px;
+}
+
+.feedback_card{
+  background-color:rgb(235, 247, 255);
+  border-radius: 5px;
+  min-width: 260px;
+  max-width: 320px;
+  padding: 14px;
+  display: grid;
+  gap: 7px;
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+
+.gap{
+  gap: 24px;
+}
